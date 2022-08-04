@@ -1,2 +1,2 @@
 # Project Code Examples
-A repository of work products in R and Python. The products cover multiple projects and efforts over the past 10 years. https://www.linkedin.com/in/davidlwhite100/
+A repository of recent work products in R and Python. The products presented cover multiple projects and efforts over the past several years and are not exhuastive. https://www.linkedin.com/in/davidlwhite100/
